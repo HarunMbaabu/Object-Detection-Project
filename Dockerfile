@@ -15,4 +15,4 @@ RUN pip3 install -U pip setuptools wheel
 EXPOSE 8501 
 
 #Command to RUn STREAMLIT Application
-CMD ["streamlit", "run", "app.py"]
+CMD ["streamlit", "run", "streamlit_app.py"]
