@@ -5,7 +5,7 @@ altair==4.2.2
 amqp==5.1.1
 antlr4-python3-runtime==4.9.3
 appdirs==1.4.4
-apturl==0.5.2
+apturl
 async-timeout==4.0.2
 asyncssh==2.13.1
 atpublic==3.1.1
