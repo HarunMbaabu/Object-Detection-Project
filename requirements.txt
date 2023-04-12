@@ -183,8 +183,6 @@ python-version==0.0.2
 pytube==12.1.2
 pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
-pywin
-pywinpty
 PyYAML==6.0
 pyzmq==25.0.0
 qtconsole==5.4.0
